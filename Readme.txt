@@ -1,1 +1,1 @@
-this folder contains the programs practiced during APC lecture
+this folder contains the programs practiced during APC lecture. APC And ADI
