@@ -1,4 +1,4 @@
-this folder contains the programs practiced during APC lecture. APC And ADI.
+This repositery contains the programs practiced during APC and ADI lectures.
 
 
 
