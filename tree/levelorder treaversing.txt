@@ -1,0 +1,39 @@
+void printLevelWise(struct Node* root)
+{
+  if(root==NULL)
+    return;
+     printf("%d\n",root->data);
+      if(root->left!=NULL)
+     {
+       enq(root->left);
+     }
+    if(root->right!=NULL)
+     {
+       enq(root->right);
+     }
+  int i=1;
+  while(top1<top)
+  {
+    for(int t1=0;t1<pow(2,i);t1++)
+    {
+      if(top1<=top)
+      {
+      struct Node *t=deq();
+        if(t1+1 <  pow(2,i))
+      printf("%d ",t->data);
+        else
+       printf("%d",t->data);
+      if(t->left!=NULL)
+     {
+       enq(t->left);
+     }
+         if(t->right!=NULL)
+     {
+       enq(t->right);
+     }
+      }
+    }
+    printf("\n");
+    i++;
+  }
+}
