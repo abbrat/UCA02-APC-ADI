@@ -1,5 +1,6 @@
 This repositery contains the programs practiced during APC and ADI lectures.
 
+these programs were practiced during UCA batches
 
 
 
@@ -643,7 +644,3 @@ This repositery contains the programs practiced during APC and ADI lectures.
 
 
 
-
-
-mns bhre][g
-pew[pf
